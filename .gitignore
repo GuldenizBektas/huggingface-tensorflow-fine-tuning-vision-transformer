@@ -1,6 +1,6 @@
 *.zip
 lung_colon_image_set
-vit_base_patch16-224-in21k
+vit-base-patch16-224-in21k
 .DS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
